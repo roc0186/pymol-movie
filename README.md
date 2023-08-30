@@ -1,4 +1,5 @@
-# pymol save png with transpatent background
+# pymol
+save pngs with transpatent background to make movie
 # 鼠标操作：
 1 open pse with pymol
 
