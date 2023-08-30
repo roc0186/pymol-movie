@@ -1,5 +1,5 @@
 # pymol
-save pngs with transpatent background to make movie
+save pngs with transpatent background to make movie of Y-roll
 # 鼠标操作：
 1 open pse with pymol
 
