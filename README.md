@@ -1,4 +1,4 @@
-# pymol-movie pymol 保存透明背景图片
+# pymol save png with transpatent background
 # 鼠标操作：
 1 open pse with pymol
 
